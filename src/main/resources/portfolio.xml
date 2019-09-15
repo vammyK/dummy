@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<portfolio>
+    <accounts>
+        <accountId>0</accountId>
+        <accountOwnerId>5900b3a4-20f3-4f6a-a1c7-bb7804693869</accountOwnerId>
+        <currency>99363819-8ce0-4a75-802e-7adba8dedbbd</currency>
+    </accounts>
+    <accounts>
+        <accountId>1</accountId>
+        <accountOwnerId>5d80989e-77b6-4ec4-a88e-92fa4a35f7bf</accountOwnerId>
+        <currency>3a439cb2-72c3-4618-a00e-01bef92478fa</currency>
+    </accounts>
+    <accounts>
+        <accountId>2</accountId>
+        <accountOwnerId>bd68d0e8-5a76-4b9e-a090-3d9505f1c690</accountOwnerId>
+        <currency>5719c50d-8b0d-4bb4-b58b-6f3812c14345</currency>
+    </accounts>
+    <accounts>
+        <accountId>3</accountId>
+        <accountOwnerId>f5b8ce8a-83b0-4545-aa9a-a7169f290a4b</accountOwnerId>
+        <currency>2253338a-336b-4b6c-b0cc-21b78699888e</currency>
+    </accounts>
+    <portfolioName>89802aea-48a1-4aa1-b152-345f254b7756</portfolioName>
+    <portfolioNumber>b929ad55-42e0-4d70-a663-286ffc546657</portfolioNumber>
+    <portfolioOwnerId>164a77e0-9e10-4e30-b4b5-6c6a72395f24</portfolioOwnerId>
+</portfolio>
